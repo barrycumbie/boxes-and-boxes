@@ -49,4 +49,12 @@ body{
   position: fixed;
   overflow: scroll; 
 }
+
+.row {
+  border: solid 1px green;
+  height: 400px; 
+  background-color: fuschia; 
+}
+
+
 #helpbox{}
