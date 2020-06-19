@@ -3,7 +3,7 @@ h1 { font-family: Ubuntu; font-size: 24px; font-style: normal; font-variant: nor
 body{ 
   margin: 0;
   padding: 0;
-  boarder: 0;
+  border: 0;
   background-color: #FFEEBB; 
 }
 #header {
@@ -43,5 +43,6 @@ body{
   height: 2000px;
   color: #006666;
   position: fixed;
+  overflow: auto; 
 }
 #helpbox{}
