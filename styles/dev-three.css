@@ -47,6 +47,6 @@ body{
   height: 2000px;
   color: #006666;
   position: fixed;
-  overflow: auto; 
+  overflow: scroll; 
 }
 #helpbox{}
